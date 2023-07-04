@@ -5,10 +5,7 @@ this repo has all the daily curios actions i had done to acquire more precise de
 ## Table
 | Date       | Efforts   | Self-Satisfied |
 |------------|-----------|----------------|
-| 2023-07-01 | 4 hours   | Yes            |
-| 2023-07-02 | 3 hours   | No             |
-| 2023-07-03 | 5 hours   | Yes            |
-| 2023-07-04 | 2 hours   | No             |
+| 2023-07-01 | Done maximmilians udemy section 10 and 12 introduction to SQL and NoSQL databases | No|
 <style>
 table {
     background-color: black;
