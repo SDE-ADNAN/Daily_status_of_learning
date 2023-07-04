@@ -13,6 +13,7 @@ this repo has all the daily curios actions i had done to acquire more precise de
 
 <style>
 table {
+    width: 100%;
     background-color: black;
 }
 
