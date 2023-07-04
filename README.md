@@ -4,6 +4,9 @@ this repo has all the daily curios actions i had done to acquire more precise de
 
 ## Table
 <div style="width:100%">
+    <table>
+        <tr><th>dfdfs</th></tr>
+    </table>
 | Date       | Efforts   | Self-Satisfied |
 |------------|-----------|----------------|
 | 2023-07-01 | 4 hours   | Yes            |
