@@ -5,6 +5,7 @@ this repo has all the daily curios actions i had done to acquire more precise de
 ## Table
 | Date       | Efforts   | Self-Satisfied |
 |------------|-----------|----------------|
+| 2023-07-18 | completed till 199. Displaying the Cart Items video for nodejs | No|
 | 2023-07-17 | completed till 194 th mongodb video | No|
 | 2023-07-16 | done till the mongodb section where delete and add to cart is pending | No|
 | 2023-07-14 | completed till 159 th sequilize video | No|
