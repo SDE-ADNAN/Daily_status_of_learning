@@ -5,6 +5,7 @@ this repo has all the daily curios actions i had done to acquire more precise de
 ## Table
 | Date       | Efforts   | Self-Satisfied |
 |------------|-----------|----------------|
+| 2023-09-21 | did qa for hkv check out changes and also did 50% of the marasingha environment section| No|
 | 2023-09-20 | did first lecture of harkirat of js basics| No|
 | 2023-09-05 | did the graphs datastructure video of anuj bhaiya on yt | No|
 | 2023-08-26 | did harkiraths lectures  | No|
