@@ -5,6 +5,7 @@ this repo has all the daily curios actions i had done to acquire more precise de
 ## Table
 | Date       | Efforts   | Self-Satisfied |
 |------------|-----------|----------------|
+done hkirats typescript crash course
 | 2023-12-01| did harkirats 7.1 week video | No |
 | 2023-11-17| did piyush gargs docker course part2 on yt | No |
 | 2023-11-14| did piyush gargs docker course on yt | No |
